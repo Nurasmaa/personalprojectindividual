@@ -1,0 +1,192 @@
+
+body
+{
+  
+   border: 8px solid black;
+    padding: 10px;
+    cursor: pointer;
+min-height: 70%;
+   background-image: url(w1.jpeg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center center;
+    
+}
+
+
+
+hr
+{
+  line-height: 100px
+  color:solid black;
+}
+
+
+h1
+{
+background-color:#A9CCE3  ;
+color: #1124E6  ;	
+font-family:Audiowide;
+font-size: 35px;
+border: dotted;
+border-color:white;
+border-radius: 50px;
+padding: 0px;
+
+}
+
+h2
+{
+background-color:#12C1CF ;
+width: 400px;
+color: #1124E6 ;	
+font-family:Audiowide;
+font-size: 18px;
+border: solid;
+border-color:white;
+border-radius: 50px;
+padding: 0px;
+
+}
+
+h3
+{
+background-color:#12C1CF;
+width: 400px;
+color: #1124E6;	
+font-family:dancing script;
+font-size: 18px;
+border: solid;
+border-color: white;
+border-radius: 50px;
+padding: 0px;
+}
+
+
+h4
+{
+background-color:#CCCCFF;
+width: 400px;
+border-width: 50px;
+color:solid black;  
+font-family:dancing script;
+font-size: 18px;
+border: solid;
+border-color: #40E0D0;
+border-radius: 10px;
+padding: 5px;
+text-align: center;
+}
+
+h5
+{
+background-color:#CCCCFF;
+width: 500px;
+border-width: 50px;
+color:solid black;	
+font-family:dancing script;
+font-size: 18px;
+border: solid;
+border-color: #40E0D0;
+border-radius: 10px;
+padding: 5px;
+text-align: center;
+}
+
+p
+{
+background-color:#CCCCFF;
+width: 900px;
+border-width: 50px;
+color:solid black;	
+font-family:dancing script;
+font-size: 20px;
+border: solid;
+border-color: #40E0D0;
+border-radius: 20px;
+padding: 5px;
+text-align: center;
+}
+
+p:first-letter
+{
+  color: black;
+  font-size: xx-large;
+  font-family:dancing script;
+}
+
+a:link,a,visited
+{
+	display:inline-flex;
+	font-weight: bold;
+	color:black;
+	background-color:#1124E6 ;
+  border-color: #D4A019;
+  border: solid;
+  font-family: dancing script;
+	text-align: center;
+	padding: 4px;
+	text-decoration: none;
+	border-radius: 5px;
+	font-size: 13px;
+
+}
+
+a:hover,a:active
+{
+	background-color: beige;
+
+}
+
+
+a.five:hover{font-size: 130%}
+
+
+li
+{
+background-color:#CCCCFF;
+width: 200px;
+border-width: 50px;
+color:solid black;	
+font-family:dancing script;
+font-size: 15px;
+border: dashed;
+border-color: #40E0D0;
+border-radius: 20px;
+padding: 5px;
+text-align: center;	
+
+}
+
+
+
+div.background
+{
+  width: 800px;
+  height: 225px;
+  background:beige;
+  border: 2px solid black;
+}
+div.transbox
+{
+  width: 700px;
+  height: 200px;
+  margin: 5px 5px;
+  background: url(welcome.jpeg);
+  border: 5px solid black;
+  filter:alpha(opacity=10);
+  opacity:0.9;
+}
+
+button
+{
+  background-color:#12C1CF;
+  padding: 2px;
+  border-style: dotted;
+  border-color: black;
+
+
+}
+
+
+
